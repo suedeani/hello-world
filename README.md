@@ -1,2 +1,3 @@
 # hello-world
 Another newbie on the block....
+Starting over. Had one set up through company I was working with. Want to review things anyway - wasn't able to spend time coding as much as I wanted to anyway.
